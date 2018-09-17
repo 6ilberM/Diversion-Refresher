@@ -1,0 +1,2 @@
+﻿  main.cpp
+d:\repositories\oglrefresh\diversion-refresher\seasonofmists\seasonofmists\dependencies\includes\gl\glew.h(85): fatal error C1189: #error:  gl.h included before glew.h
