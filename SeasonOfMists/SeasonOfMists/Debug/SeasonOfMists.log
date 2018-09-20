@@ -1,2 +1,3 @@
 ﻿  main.cpp
-d:\repositories\oglrefresh\diversion-refresher\seasonofmists\seasonofmists\dependencies\includes\gl\glew.h(85): fatal error C1189: #error:  gl.h included before glew.h
+d:\repositories\oglrefresh\diversion-refresher\seasonofmists\seasonofmists\main.cpp(64): warning C4715: 'init': not all control paths return a value
+  SeasonOfMists.vcxproj -> D:\Repositories\OGLRefresh\Diversion-Refresher\SeasonOfMists\Debug\SeasonOfMists.exe
