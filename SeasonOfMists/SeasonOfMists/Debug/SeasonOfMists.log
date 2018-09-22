@@ -1,4 +1,5 @@
 ﻿  Camera.cpp
-  Cube.cpp
+  main.cpp
   Generating Code...
+d:\repositories\oglrefresh\diversion-refresher\seasonofmists\seasonofmists\main.cpp(118): warning C4715: 'init': not all control paths return a value
   SeasonOfMists.vcxproj -> D:\Repositories\OGLRefresh\Diversion-Refresher\SeasonOfMists\Debug\SeasonOfMists.exe

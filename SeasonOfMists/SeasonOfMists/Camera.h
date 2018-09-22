@@ -14,10 +14,13 @@ public:
 	glm::mat4 ViewMatrix;
 	glm::mat4 ProjectMatrix;
 
-	glm::vec3 UpVector;
-	glm::vec3 RightVector;
-	glm::vec3 FrontVector;
-	glm::vec3 m_position;
+	glm::vec3 m_UpVector;
+	glm::vec3 m_RightVector;
+	glm::vec3 m_FrontVector;
+	glm::vec3 m_Localposition;
+	glm::vec3 m_Worldposition;
+
+	void Observe(glm::vec3 _LocOrigin);
 
 private:
 
